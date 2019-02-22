@@ -1,0 +1,3 @@
+le fichier bonjour.js permet d'afficher une alerte qui indiquera a l'utilisateur "bonjour" 
+
+nous pouvons modifier celle ci en fonction de notre besoin.
