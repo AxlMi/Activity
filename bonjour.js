@@ -1,2 +1,2 @@
 var bonjour = alert("bonjour");
-bonjour;
+console.log(bonjour);
